@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM resin/raspberry-pi3-node:6.10
 
 MAINTAINER giulio.paci@mivoq.it
 
